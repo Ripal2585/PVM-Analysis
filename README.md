@@ -54,3 +54,7 @@ Built pivot tables across four dimensions to understand performance from differe
 
 - Microsoft Excel (pivot tables, formulas, charts)
 - Microsoft Word (executive summary)
+
+<img width="1140" height="744" alt="Screenshot 2026-07-23 at 2 48 50 PM" src="https://github.com/user-attachments/assets/9598e8e3-0e3c-4afb-999d-acbfabded7fe" />
+<img width="1151" height="1041" alt="Screenshot 2026-07-23 at 2 49 14 PM" src="https://github.com/user-attachments/assets/348746f7-22a6-4994-bb10-4727e15f8054" />
+
